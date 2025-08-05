@@ -1,6 +1,6 @@
 # Base Image
 
-FROM 375543174501.dkr.ecr.us-east-1.amazonaws.com/codepipelines
+#FROM 375543174501.dkr.ecr.us-east-1.amazonaws.com/codepipelines
 
 FROM node:lts-alpine3.17
 
